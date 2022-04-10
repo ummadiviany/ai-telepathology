@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## AI based TelePathology
+
+This page is under construction.
 
 You can use the [editor on GitHub](https://github.com/ummadiviany/ai-telepathology/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
